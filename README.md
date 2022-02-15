@@ -1,4 +1,4 @@
-# CST383-Project
+# Murder Data Predictions
 ## Introduction
 ## Selection of Data
 ## Method
