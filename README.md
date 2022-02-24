@@ -1,11 +1,13 @@
 # Murder Data Weapon Predictions
 
 ## Introduction
-The source data is from: http://www.murderdata.org/p/data-docs.html. The objective is to figure out how the US government and police force are being accountable for homicides, both solved and unsolved homicides. We need to know which weapons are being used, characteristics of the offenders and defenders, and where these murders are taking place. We hope that this data can be used to figure out what types of regulations can be propose to help solve these murders. 
-
-We will be using vicage, offage and relationship to predict weapon. We will be predicting the murder weapon. We will be using offage, vicage, and relationship as predictors.
+The source data is from: http://www.murderdata.org/p/data-docs.html. The objective is to figure out how the US government and police force are being accountable for homicides, both solved and unsolved homicides. We need to know which weapons are being used and characteristics of the offenders and victims. We hope that this data can be used to figure out what types of regulations can be propose to help solve these murders. We will be using VicAge, OffAge, and Relationship to predict Weapon. We will be predicting the murder weapon.
 
 ## Selection of Data
+
+There are 23 features and 827219 entries. We removed some features that were empty and unnecessary like ID, Ori, Source, and etc. We created other dataframes that focus on California and New York so that we can compare the two states.
+The data we will be working with has 6 numeric features and 17 categorical features.
+We will be using VicAge, OffAge, and Relationship as predictors, and our target will be Weapon. We will be predicting the murder Weapon. 
 
 Copied from MAP Data Dictionary, which can be downloaded here https://www.dropbox.com/s/lo6tgo8nnbpqeru/MAPdefinitionsSHR.pdf?dl=1.
 
@@ -72,6 +74,21 @@ FSTATE – A two-digit alphanumeric variable representing the state in which a h
 MSA – An eight-digit numeric variable representing the Census Bureau’s Federal Information Processing Standards (FIPS) code for the Metropolitan Statistical Area from which a record was reported. When using the Comma Separated Values format file (file extension=.csv) the original FIPS coding is replaced with the label indicating the metropolitan area. (F8.0).
 
 ## Method
+Tools:
+- Numpy, Pandas, Matplotlib, and Seaborn for data analysis and visualization
+- Scikit-learn
+- Google Collabs
+- Anaconda Jupyter Notebook
+
+Methods:
+- Models:
+- Features:
+
 ## Results
+*photos of graphs and screenshots of results from commands
+
 ## Discussion
+*what is going on?
+
 ## Summary
+*what happened. thanks goodbye. 
