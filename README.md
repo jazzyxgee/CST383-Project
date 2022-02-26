@@ -85,7 +85,7 @@ Methods:
 - Features: While looking at the data we found unknown information, dropped Weapon and Relationship since we were unable to convert to numerical data
 
 ## Results
-
+![graph1](https://raw.githubusercontent.com/jazzyxgee/CST383-Project/main/screenshots/graph1.PNG)
 
 ## Discussion
 After exploring the data and visualizing it, it was revealed that there were many unknown pieces of information. Our original hypothesis was to find out whether we can predict Weapon based on VicAge, OffAge, and Relationship. Relationship and Weapon are categorical, and in turn, were difficult to convert to numerical data. 
