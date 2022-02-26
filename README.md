@@ -75,20 +75,22 @@ MSA – An eight-digit numeric variable representing the Census Bureau’s Feder
 
 ## Method
 Tools:
-- Numpy, Pandas, Matplotlib, and Seaborn for data analysis and visualization
+- Numpy, Pandas, Matplotlib for data analysis and visualization
 - Scikit-learn
 - Google Collabs
 - Anaconda Jupyter Notebook
 
 Methods:
-- Models:
-- Features:
+- Models: Linear regression comes from scikit-learn, KNeighborsClassifier, KNN
+- Features: While looking at the data we found unknown information, dropped Weapon and Relationship since we were unable to convert to numerical data
 
 ## Results
 *photos of graphs and screenshots of results from commands
 
 ## Discussion
-*what is going on?
+After exploring the data and visualizing it, it was revealed that there were many unknown pieces of information. Our original hypothesis was to find out whether we can predict Weapon based on VicAge, OffAge, and Relationship. Relationship and Weapon are categorical, and in turn, were difficult to convert to numerical data. 
+We modified our hypothesis to identify the age of the victim from the age of the offender. We performed LinearRegression, found the intercepts, and checked the accuracy of our models.
+The model's accuracy scores suggest that our models are insufficient for the prediction, even after modifications. 
 
 ## Summary
-*what happened. thanks goodbye. 
+In summary, we set off to find out whether this information could help investigators solve more murders based off the our predictions.
