@@ -90,7 +90,7 @@ Data Visualization -
 ![graph2](https://raw.githubusercontent.com/jazzyxgee/CST383-Project/main/screenshots/graph2.PNG)
 
 Accuracy tests - 
-![accuracy](https://raw.githubusercontent.com/jazzyxgee/CST383-Project/main/screenshots/acc-data.PNG)
+![accuracy](https://raw.githubusercontent.com/jazzyxgee/CST383-Project/main/screenshots/acc-data.png)
 
 ## Discussion
 After exploring the data and visualizing it, it was revealed that there were many unknown pieces of information. Our original hypothesis was to find out whether we can predict Weapon based on VicAge, OffAge, and Relationship. Relationship and Weapon are categorical, and in turn, were difficult to convert to numerical data. 
