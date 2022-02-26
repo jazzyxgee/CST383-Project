@@ -89,7 +89,7 @@ Data Visualization -
 ![graph1](https://raw.githubusercontent.com/jazzyxgee/CST383-Project/main/screenshots/graph1.PNG)
 ![graph2](https://raw.githubusercontent.com/jazzyxgee/CST383-Project/main/screenshots/graph2.PNG)
 
-Accuracy tests - 
+Accuracy tests - <br />
 ![accuracy](https://raw.githubusercontent.com/jazzyxgee/CST383-Project/main/screenshots/acc-data.png)
 
 ## Discussion
