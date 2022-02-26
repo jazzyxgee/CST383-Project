@@ -99,3 +99,6 @@ The model's accuracy scores suggest that our models are insufficient for the pre
 
 ## Summary
 In summary, we set off to find out whether this information could help investigators solve more murders based off our predictions. While the dataset is useful, it was packed with data that was not easy to work with. Due to the amount of data, it affected our initial goal. Applying what we learned in class, we modified our hypothesis and worked with OffAge to predict VicAge.
+
+## Video Link
+YouTube: https://www.youtube.com/watch?v=vuJ-_4w2Tf8 
